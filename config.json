@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-and-file-handling",
+      "title": "Python Functions and File Handling",
+      "description": "Practice writing reusable Python functions and reading data from files",
+      "path": "assignments/python-functions-and-file-handling",
+      "dueDate": "2026-09-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
